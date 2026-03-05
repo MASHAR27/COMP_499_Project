@@ -1,0 +1,8 @@
+data/
+*.zip
+*.npy
+*.svs
+*.tif
+__pycache__/
+*.pyc
+.DS_Store
