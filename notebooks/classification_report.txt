@@ -1,0 +1,14 @@
+Classification Report — ABMIL on LC25000
+============================================================
+              precision    recall  f1-score   support
+
+        LUAD     1.0000    1.0000    1.0000       150
+        LUSC     1.0000    1.0000    1.0000       150
+      Normal     1.0000    1.0000    1.0000       150
+
+    accuracy                         1.0000       450
+   macro avg     1.0000    1.0000    1.0000       450
+weighted avg     1.0000    1.0000    1.0000       450
+
+
+Generated: 2026-03-07 02:36:15
